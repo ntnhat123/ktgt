@@ -1,0 +1,10 @@
+<resources>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="pass">Pass</string>
+    <string name="TODO">TODO</string>
+    <string name="TODO1">Name</string>
+    <string name="TODO2">Phone</string>
+    <string name="TODO3">ADD</string>
+</resources>
